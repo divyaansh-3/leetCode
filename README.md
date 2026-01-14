@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/divyaansh-3/leetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/divyaansh-3/leetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/divyaansh-3/leetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
