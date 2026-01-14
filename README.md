@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaansh-3/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/divyaansh-3/leetCode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaansh-3/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divyaansh-3/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyaansh-3/leetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/divyaansh-3/leetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
