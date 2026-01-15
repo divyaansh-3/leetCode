@@ -19,13 +19,13 @@ public:
                 break;
             }
         }
-        if(!fast)return NULL;
+        if(!fast || !fast->next)return NULL;
         slow=head;
 
         while(slow!=fast){
             
             slow=slow->next;
-            if(fast)fast=fast->next;
+            fast=fast->next;
         }
         return slow;
         
