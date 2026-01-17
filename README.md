@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyaansh-3/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/divyaansh-3/leetCode/tree/master/0704-binary-search) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/divyaansh-3/leetCode/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
