@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divyaansh-3/leetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divyaansh-3/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/divyaansh-3/leetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
