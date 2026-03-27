@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyaansh-3/leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaansh-3/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/divyaansh-3/leetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divyaansh-3/leetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyaansh-3/leetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyaansh-3/leetCode/tree/master/0209-minimum-size-subarray-sum) |
