@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaansh-3/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaansh-3/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/divyaansh-3/leetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyaansh-3/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/divyaansh-3/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/divyaansh-3/leetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divyaansh-3/leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/divyaansh-3/leetCode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/divyaansh-3/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/divyaansh-3/leetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/divyaansh-3/leetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/divyaansh-3/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/divyaansh-3/leetCode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
