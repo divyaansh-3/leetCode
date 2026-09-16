@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaansh-3/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaansh-3/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/divyaansh-3/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/divyaansh-3/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/divyaansh-3/leetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/divyaansh-3/leetCode/tree/master/0904-fruit-into-baskets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaansh-3/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaansh-3/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/divyaansh-3/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divyaansh-3/leetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divyaansh-3/leetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Database
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaansh-3/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/divyaansh-3/leetCode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/divyaansh-3/leetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaansh-3/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaansh-3/leetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/divyaansh-3/leetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
