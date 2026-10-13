@@ -206,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/divyaansh-3/leetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyaansh-3/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/divyaansh-3/leetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyaansh-3/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/divyaansh-3/leetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/divyaansh-3/leetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Graph Theory
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/divyaansh-3/leetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyaansh-3/leetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/divyaansh-3/leetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/divyaansh-3/leetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divyaansh-3/leetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -259,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/divyaansh-3/leetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/divyaansh-3/leetCode/tree/master/0052-n-queens-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
