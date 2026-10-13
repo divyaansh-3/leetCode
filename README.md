@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyaansh-3/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaansh-3/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/divyaansh-3/leetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/divyaansh-3/leetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/divyaansh-3/leetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaansh-3/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/divyaansh-3/leetCode/tree/master/0943-find-the-shortest-superstring) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/divyaansh-3/leetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/divyaansh-3/leetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
