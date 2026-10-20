@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/divyaansh-3/leetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/divyaansh-3/leetCode/tree/master/0904-fruit-into-baskets) |
 | [0943-find-the-shortest-superstring](https://github.com/divyaansh-3/leetCode/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/divyaansh-3/leetCode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyaansh-3/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/divyaansh-3/leetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/divyaansh-3/leetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/divyaansh-3/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/divyaansh-3/leetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/divyaansh-3/leetCode/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/divyaansh-3/leetCode/tree/master/0980-unique-paths-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,11 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/divyaansh-3/leetCode/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/divyaansh-3/leetCode/tree/master/0980-unique-paths-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/divyaansh-3/leetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/divyaansh-3/leetCode/tree/master/0052-n-queens-ii) |
+| [0980-unique-paths-iii](https://github.com/divyaansh-3/leetCode/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/divyaansh-3/leetCode/tree/master/0886-possible-bipartition) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/divyaansh-3/leetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
